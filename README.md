@@ -1,0 +1,2 @@
+# tonic-clonic
+Android/iOS/Web app for conditions where "relapse" or "recurrence" is of particular concern, such as epilepsy, drug addictions, and self harm. The basic app features a calendar where users can mark the last occurance of their condition. When they access the app again, it will display the amount of days since the last occurence and offer an option to reset if necessary. It will also notify users when the 2-week, 30-day, 60-day, 3-month, 6-month, 1 year, 18 month, 2 year, etc. marks have been reached.
